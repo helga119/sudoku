@@ -1,4 +1,4 @@
-# sudoku
+# sudoku solver
 a sudoku solver with a graphical GUI, developed with the backtrack algorithm. easily run  the python file to play sodoku!
 
 
